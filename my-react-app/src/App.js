@@ -1,12 +1,13 @@
 import React from 'react'
-import STATE from './STATE'
-
+//import STATE from './STATE'
+import CONDITIONAL_RENDERING from './CONDITIONAL_RENDERING/index'
 
 
 export default function App() {
   return (
     <div>
-       <STATE />
+       < CONDITIONAL_RENDERING />
+       
     </div>
   )
 }
