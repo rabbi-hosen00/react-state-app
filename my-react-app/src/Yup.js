@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-import Signup from './Formik/Signup'
+import Signup from './Components/YupWithFormik/Signup'
 
 
 
@@ -13,5 +13,3 @@ export default function App() {
     </div>
   )
 };
-
-
