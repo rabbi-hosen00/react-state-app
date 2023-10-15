@@ -1,4 +1,8 @@
 import React from 'react'
+
+
+
+
 import UseEffectExample from './HOOKS/useEffect/UseEffectExample'
 
 export default function useEffectApp() {
@@ -6,5 +10,6 @@ export default function useEffectApp() {
     <div>
       < UseEffectExample />
     </div>
+
   )
 }
