@@ -3,7 +3,6 @@ import FAQS from './Components/FAQ/FAQS'
 
 
 
-
 export default function App() {
   return (
     <div>
