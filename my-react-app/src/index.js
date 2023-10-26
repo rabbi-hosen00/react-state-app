@@ -7,9 +7,9 @@ import ReactDOM  from 'react-dom'
 //import ToggleApp from  './ToggleApp'
 //import UseEffectApp from './useEffectApp';
 //import DataFetchApp from './DataFetchApp'
-import CustomHooksApp from './CustomHooksApp'
+//import CustomHooksApp from './CustomHooksApp'
+import DynamicApp  from './DynamicApp';
 
-
-ReactDOM.render(<CustomHooksApp />, document.getElementById('root'));
+ReactDOM.render(<DynamicApp />, document.getElementById('root'));
 
 
