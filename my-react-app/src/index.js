@@ -8,8 +8,10 @@ import ReactDOM  from 'react-dom'
 //import UseEffectApp from './useEffectApp';
 //import DataFetchApp from './DataFetchApp'
 //import CustomHooksApp from './CustomHooksApp'
-import DynamicApp  from './DynamicApp';
+//import DynamicApp  from './DynamicApp';
 
-ReactDOM.render(<DynamicApp />, document.getElementById('root'));
+import PropsTyeps from './propsTyeps'
+
+ReactDOM.render(<PropsTyeps/>, document.getElementById('root'));
 
 
