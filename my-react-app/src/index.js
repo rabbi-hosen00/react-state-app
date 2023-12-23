@@ -3,6 +3,7 @@ import React from 'react'
 import ReactDOM  from 'react-dom'
 
 
+
 //import App from './App'
 //import Yup from './Yup'
 //import ToggleApp from  './ToggleApp'
@@ -11,9 +12,10 @@ import ReactDOM  from 'react-dom'
 //import CustomHooksApp from './CustomHooksApp'
 //import DynamicApp  from './DynamicApp';
 //import PropsTyeps from './propsTyeps'
+//import UseReducerApp from './UseReducerApp';
 
-import UseReducerApp from './UseReducerApp';
+import PropDrillingApp from './PropDrillingApp';
 
-ReactDOM.render(<UseReducerApp />, document.getElementById('root'));
+ReactDOM.render(<PropDrillingApp/>, document.getElementById('root'));
 
 
