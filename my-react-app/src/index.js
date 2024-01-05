@@ -3,8 +3,6 @@ import React from 'react'
 import ReactDOM  from 'react-dom'
 
 
-
-
 //import App from './App'
 //import Yup from './Yup'
 //import ToggleApp from  './ToggleApp'
@@ -15,9 +13,9 @@ import ReactDOM  from 'react-dom'
 //import PropsTyeps from './propsTyeps'
 //import UseReducerApp from './UseReducerApp';
 //import PropDrillingApp from './PropDrillingApp';
+//import UseContextApp from './UseContextApp';
+import ProtectedApp from './ProtectedApp';
 
-import UseContextApp from './UseContextApp';
-
-ReactDOM.render(<UseContextApp/>, document.getElementById('root'));
+ReactDOM.render(<ProtectedApp />, document.getElementById('root'));
 
 

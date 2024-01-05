@@ -1,0 +1,17 @@
+.nav{
+    height: 10vh;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-link {
+    color: black;
+    margin: 1rem;
+    text-decoration: none;
+}
+.nav-link:hover{
+    background-color: orange;
+}
+
+
